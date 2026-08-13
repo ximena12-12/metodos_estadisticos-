@@ -4,8 +4,16 @@ Curso de métodos estadísticos tercer semestre Agosto 12 del 2026 del programa 
 
 ## Contenido del semestre
 
+dart:** semana 2: inicio de curso de metodos estadisticos**
+
 ** 12/08/2026: Inicio de curso de métodos estadísticos ** 
 + Preparar mi área de trabajo
 + Crear cuenta en Github antagle
 + Crear mi primer repositorio
 + Modificar el archivo _READNE_ 
++Activarcredenciales de github para sicronizar repositorio 
++primra sicronizacion exitosa.
++crear:file: carpetas para organizar mi informacion 
+-----
+
+
